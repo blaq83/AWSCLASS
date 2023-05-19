@@ -2,6 +2,5 @@ konu
 hope
 benedicte
 andy
-divya
 linux commands to be rememebered
 need to keep track of the commands
