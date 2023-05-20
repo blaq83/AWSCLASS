@@ -4,3 +4,4 @@ benedicte
 andy
 linux commands to be rememebered
 need to keep track of the commands
+solange
